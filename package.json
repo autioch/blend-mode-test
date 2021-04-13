@@ -1,0 +1,20 @@
+{
+  "name": "blend-mode-test",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Tests of CSS blend mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autioch/blend-mode-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autioch/blend-mode-test/issues"
+  },
+  "homepage": "https://github.com/autioch/blend-mode-test#readme"
+}
